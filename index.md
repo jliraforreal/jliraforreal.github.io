@@ -12,7 +12,7 @@ My Github page is http://github.com/jliraforreal .
 
 * Lab 7
 
-    Lab 7, part 1 was one of my favorite lab assignments because of the use of conditional statements. I think figuring out the correct time ranges and days in a way that the computer can understand was very unique from the other lab assignments. Utilizing the "&&", "||", and other condtional operators like "==" was very fun because I had to think a little bit harder about how to implement the time and day correctly.
+    Lab 7, part 1 was one of my favorite lab assignments because of the use of conditional statements. I think figuring out the correct time ranges and days in a way that the computer can understand was very unique from the other lab assignments. Utilizing the AND, OR, and other condtional operators like == was very fun because I had to think a little bit harder about how to implement the time and day correctly.
 
 * Lab 12
 
